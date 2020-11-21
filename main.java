@@ -19,7 +19,7 @@ class Player {
             String enemy2 = in.next(); // name of enemy 2
             int dist2 = in.nextInt(); // distance to enemy 2
 
-            // Write an action using System.out.println()
+            // 
             // To debug: System.err.println;
 
             // Display enemy1 name when enemy1 is the closest, enemy2 otherwise
